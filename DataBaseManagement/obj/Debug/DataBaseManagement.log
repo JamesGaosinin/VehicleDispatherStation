@@ -1,0 +1,28 @@
+﻿生成启动时间为 2023/5/4 10:10:20。
+     1>项目“C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\DataBaseManagement\project\DataBaseManagement.vcxproj”在节点 2 上(Build 个目标)。
+     1>QtFinalize:
+         Moc'ing ..\include\DataBaseManagement.h...
+         Moc'ing ..\source\DataBase.h...
+         Moc'ing ..\include\SqlConnect.h...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.7.0\5.7\msvc2013\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtCore /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtSql /I..\include /I..\source /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtXml /Zi /nologo /W1 /WX- /MP /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_SQL_LIB /D DATABASEMANAGEMENT_LIB /D _WINDLL /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\DataBaseManagement\project\..\obj\Debug\\" /Fd"C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\DataBaseManagement\project\..\obj\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\source\DataBase.cpp ..\source\DataBaseManagement.cpp ..\source\SqlConnect.cpp .\GeneratedFiles\Debug\moc_DataBaseManagement.cpp .\GeneratedFiles\Debug\moc_DataBase.cpp .\GeneratedFiles\Debug\moc_SqlConnect.cpp
+         DataBase.cpp
+         DataBaseManagement.cpp
+         SqlConnect.cpp
+         moc_DataBaseManagement.cpp
+         moc_DataBase.cpp
+         moc_SqlConnect.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\DataBaseManagement\project\..\lib\Debug\\DataBaseManagement_d.dll" /NOLOGO /LIBPATH:C:\Qt\Qt5.7.0\5.7\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Sqld.lib Qt5Xmld.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\DataBaseManagement\project\..\lib\Debug\DataBaseManagement_d.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\DataBaseManagement\project\..\lib\Debug\DataBaseManagement_d.lib" /MACHINE:X86 /SAFESEH /DLL "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\DataBaseManagement\project\..\obj\Debug\DataBase.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\DataBaseManagement\project\..\obj\Debug\DataBaseManagement.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\DataBaseManagement\project\..\obj\Debug\SqlConnect.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\DataBaseManagement\project\..\obj\Debug\moc_DataBaseManagement.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\DataBaseManagement\project\..\obj\Debug\moc_DataBase.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\DataBaseManagement\project\..\obj\Debug\moc_SqlConnect.obj"
+            正在创建库 C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\DataBaseManagement\project\..\lib\Debug\DataBaseManagement_d.lib 和对象 C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\DataBaseManagement\project\..\lib\Debug\DataBaseManagement_d.exp
+         DataBaseManagement.vcxproj -> C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\DataBaseManagement\project\..\lib\Debug\DataBaseManagement_d.dll
+     1>已完成生成项目“C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\DataBaseManagement\project\DataBaseManagement.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.97

@@ -1,0 +1,30 @@
+QHeaderView::section 
+{
+	background-color: rgb(91,160,237);
+	font-family:"Microsoft YaHei";
+	font-size:16px;
+	font-weight:2px;
+}
+QHeaderView::section:checked
+{
+  background-color: rgb(91,160,237);
+}
+
+QToolBar QToolButton:checked
+{
+	background: red;
+	border:none;
+}
+
+QSplitter::handle{
+    border: 1px solid #999999;
+    border-style: outset;
+    width: 4px;
+    height: 4px;
+}
+QSplitter::handle:hover{/*splitter->handle(1)->setAttribute(Qt::WA_Hover, true);
+    border-color: #EA2;
+}
+QSplitter::handle:pressed{
+    border-color: #59F;
+}

@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/Msg.png</file>
+        <file>img/Green.png</file>
+        <file>img/Red.png</file>
+        <file>img/Train.png</file>
+        <file>img/Graphics.png</file>
+        <file>img/Image.png</file>
+        <file>img/Quit.png</file>
+        <file>img/Lighting.png</file>
+        <file>img/Log.png</file>
+        <file>img/Icon.png</file>
+        <file>img/Radio.png</file>
+        <file>img/Help.png</file>
+        <file>img/About.png</file>
+        <file>StyleSheet.qss</file>
+    </qresource>
+</RCC>

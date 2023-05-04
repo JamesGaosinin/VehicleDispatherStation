@@ -1,0 +1,94 @@
+﻿生成启动时间为 2023/5/4 10:10:23。
+     1>项目“C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\VehicleDispatherStation.vcxproj”在节点 2 上(Build 个目标)。
+     1>QtFinalize:
+         Moc'ing ..\source\VehicleDispatherStation.h...
+         Moc'ing ..\source\TrainWidget.h...
+         Moc'ing ..\source\GraphicsWidget.h...
+         Moc'ing ..\source\UserGroupWidget.h...
+         Moc'ing ..\source\GroupCallRecord.h...
+         Moc'ing ..\source\LogEventWidget.h...
+         Moc'ing ..\source\RadioStateWidget.h...
+         Moc'ing ..\source\CallWidget.h...
+         Moc'ing ..\source\CallBackRequestWidget.h...
+         Moc'ing ..\source\EmergencyCallWidget.h...
+         Moc'ing ..\source\SeveralSeleChildWidget.h...
+         Moc'ing ..\source\FunctionStateWidget.h...
+         Moc'ing ..\source\DatabaseDataManager.h...
+         Rcc'ing VehicleDispatherStation.qrc...
+         Uic'ing ..\source\CallWidget.ui...
+         Uic'ing ..\source\CCallBackRequestWidget.ui...
+         Uic'ing ..\source\EmergencyCallWidget.ui...
+         Uic'ing ..\source\FunctionStateWidget.ui...
+         Uic'ing ..\source\SeveralSeleChildWidget.ui...
+         Uic'ing ..\source\VehicleDispatherStation.ui...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.7.0\5.7\msvc2013\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtCore /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtGui /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtANGLE /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtNetwork /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtSql /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtWidgets /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtXml /I..\source /I..\..\DataBaseManagement\include /Zi /nologo /W1 /WX- /MP /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_SQL_LIB /D QT_WIDGETS_LIB /D QT_XML_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\\" /Fd"C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\source\CallBackRequestWidget.cpp ..\source\CallWidget.cpp ..\source\DatabaseDataManager.cpp ..\source\EmergencyCallWidget.cpp ..\source\FunctionStateWidget.cpp ..\source\GraphicsWidget.cpp ..\source\GroupCallRecord.cpp ..\source\LogEventWidget.cpp ..\source\main.cpp ..\source\RadioStateWidget.cpp ..\source\SeveralSeleChildWidget.cpp ..\source\TrainWidget.cpp ..\source\UserGroupWidget.cpp ..\source\VehicleDispatherStation.cpp .\GeneratedFiles\Debug\moc_VehicleDispatherStation.cpp .\GeneratedFiles\Debug\moc_TrainWidget.cpp .\GeneratedFiles\Debug\moc_GraphicsWidget.cpp .\GeneratedFiles\Debug\moc_UserGroupWidget.cpp .\GeneratedFiles\Debug\moc_GroupCallRecord.cpp .\GeneratedFiles\Debug\moc_LogEventWidget.cpp .\GeneratedFiles\Debug\moc_RadioStateWidget.cpp .\GeneratedFiles\Debug\moc_CallWidget.cpp .\GeneratedFiles\Debug\moc_CallBackRequestWidget.cpp .\GeneratedFiles\Debug\moc_EmergencyCallWidget.cpp .\GeneratedFiles\Debug\moc_SeveralSeleChildWidget.cpp .\GeneratedFiles\Debug\moc_FunctionStateWidget.cpp .\GeneratedFiles\Debug\moc_DatabaseDataManager.cpp .\GeneratedFiles\qrc_VehicleDispatherStation.cpp
+         CallBackRequestWidget.cpp
+         CallWidget.cpp
+         DatabaseDataManager.cpp
+         EmergencyCallWidget.cpp
+         FunctionStateWidget.cpp
+         GraphicsWidget.cpp
+         GroupCallRecord.cpp
+         LogEventWidget.cpp
+         main.cpp
+         RadioStateWidget.cpp
+         SeveralSeleChildWidget.cpp
+         TrainWidget.cpp
+         UserGroupWidget.cpp
+         VehicleDispatherStation.cpp
+         moc_VehicleDispatherStation.cpp
+         moc_TrainWidget.cpp
+         moc_GraphicsWidget.cpp
+         moc_UserGroupWidget.cpp
+         moc_GroupCallRecord.cpp
+         moc_LogEventWidget.cpp
+         moc_RadioStateWidget.cpp
+         moc_CallWidget.cpp
+         moc_CallBackRequestWidget.cpp
+         moc_EmergencyCallWidget.cpp
+         moc_SeveralSeleChildWidget.cpp
+         moc_FunctionStateWidget.cpp
+         moc_DatabaseDataManager.cpp
+         qrc_VehicleDispatherStation.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../bin/Debug\\VehicleDispatherStation.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.7.0\5.7\msvc2013\lib /LIBPATH:..\..\DataBaseManagement\lib\Debug qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Networkd.lib Qt5Sqld.lib Qt5Widgetsd.lib Qt5Xmld.lib DataBaseManagement_d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../bin/Debug\VehicleDispatherStation.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../bin/Debug\VehicleDispatherStation.lib" /MACHINE:X86 /SAFESEH "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\CallBackRequestWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\CallWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\DatabaseDataManager.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\EmergencyCallWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\FunctionStateWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\GraphicsWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\GroupCallRecord.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\LogEventWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\main.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\RadioStateWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\SeveralSeleChildWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\TrainWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\UserGroupWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\VehicleDispatherStation.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\moc_VehicleDispatherStation.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\moc_TrainWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\moc_GraphicsWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\moc_UserGroupWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\moc_GroupCallRecord.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\moc_LogEventWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\moc_RadioStateWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\moc_CallWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\moc_CallBackRequestWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\moc_EmergencyCallWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\moc_SeveralSeleChildWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\moc_FunctionStateWidget.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\moc_DatabaseDataManager.obj"
+         "C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../obj/Debug\qrc_VehicleDispatherStation.obj"
+         VehicleDispatherStation.vcxproj -> C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\../bin/Debug\VehicleDispatherStation.exe
+       PostBuildEvent:
+         copy "..\..\DataBaseManagement\lib\Debug\DataBaseManagement_d.dll" "..\bin\Debug"
+         copy "..\..\DataBaseManagement\lib\Debug\DataBaseManagement_d.pdb" "..\bin\Debug"
+         :VCEnd
+         已复制         1 个文件。
+         已复制         1 个文件。
+     1>已完成生成项目“C:\Users\admin\Desktop\VehicleDispatherStation(复杂调度软件)\VehicleDispatherStation\project\VehicleDispatherStation.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.79
